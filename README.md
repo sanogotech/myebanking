@@ -1,6 +1,10 @@
 # myebanking
 
 
+##  Docs
+- https://training.github.com/downloads/fr/github-git-cheat-sheet.pdf
+- https://www.jrebel.com/blog/maven-cheat-sheet
+
 ## Git
 
 ```
