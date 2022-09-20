@@ -8,7 +8,7 @@ public class Client {
     private long id;
 
     private String name;
-    private String email;
+    private String email
 
     // standard getters and setters
 }
